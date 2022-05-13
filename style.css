@@ -1,0 +1,10 @@
+img{
+  width: 100%;
+  height: 450px;
+}
+/*when the image is nested within the body, the width of the image is the same width as the body.*/
+
+html{
+  font-family: 'Nunito', sans-serif;
+  font-size: 40px;
+}
